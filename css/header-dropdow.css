@@ -17,6 +17,7 @@
     font-size: 1.2em;
     line-height: 40px;
     text-align: left;
+    text-shadow: 1px 2px 4px rgba(20, 20, 21, 0.8);
 }
 
 .nav a {
@@ -109,4 +110,8 @@
 .item {
     text-align: center;
     padding: auto;
+    text-shadow: 1px 2px 4px rgba(20, 20, 21, 0.8);
+}
+.home {
+    text-shadow: 1px 2px 4px rgba(20, 20, 21, 0.8);
 }

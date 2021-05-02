@@ -1,12 +1,16 @@
 .p {
-    text-shadow: none;
+    
     color: white;
+    text-shadow: 1px 2px 4px rgba(20, 20, 21, 0.8);
 }
 
 .button-footer {
     background-color: rgb(71, 71, 71);
-    padding: 10px;
+  
     text-align: center;
+    padding: 10px;
+
+
 }
 
 
